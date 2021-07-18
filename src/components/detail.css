@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Roboto+Slab:wght@600&family=Titillium+Web&display=swap');
+
+h1{
+    font-family: 'Inter', sans-serif;
+}
+
+h6{
+    font-family: 'Titillium Web', sans-serif;;
+}
+
+
+.container{
+    color: white;
+}
+
+.rating{
+    text-align: right;
+}
+.star{
+    height: 32px;
+    width: 32px;
+    margin-right: 16px;
+}
+button{
+    padding: 8px;
+    color: black;
+    font-weight: bold;
+    background-color: yellow;
+    border: black 12px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.rating{
+    font-family: 'Roboto Slab', serif;
+    padding-top: 2px;
+    font-size: 32px;
+}
